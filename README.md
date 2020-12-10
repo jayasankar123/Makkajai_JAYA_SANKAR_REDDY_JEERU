@@ -1,7 +1,7 @@
 # Makkajai_JAYA_SANKAR_REDDY_JEERU
-Created with CodeSandbox
-Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
-and medical products that are exempt. Import duty is an additional sales tax
+
+salesTax of 10% on all goods, except books, food, and medical products 
+Import duty is an additional sales tax
 applicable on all imported goods at a rate of 5%, with no exemptions.
 
 When I purchase items I receive a receipt which lists the name of all the items
