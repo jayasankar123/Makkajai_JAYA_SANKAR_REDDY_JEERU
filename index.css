@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-group {
+  margin: 5px;
+  width: 45%;
+  overflow: auto;
+}
+button {
+  width: 10%;
+  height: 50%;
+}
